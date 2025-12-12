@@ -1,4 +1,4 @@
-<section class="relative py-24 md:py-32 bg-plain-dark overflow-hidden">
+<section class="relative py-24 md:py-32 bg-lupa-dark overflow-hidden">
   <!-- Background Effects -->
   <div class="absolute top-0 left-1/2 -translate-x-1/2 w-full h-full max-w-7xl opacity-30 pointer-events-none">
     <div class="absolute top-1/4 left-1/4 w-96 h-96 bg-green-500 rounded-full blur-[128px]"></div>
@@ -30,10 +30,10 @@
         <!-- Floating Overlay Text -->
         <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full max-w-2xl text-center px-4">
             <h2 class="text-3xl md:text-5xl font-bold tracking-tight text-white mb-6 drop-shadow-lg">
-                Plain orchestrates your support
+                One platform. Everything integrated.
             </h2>
             <p class="text-lg text-gray-300 leading-relaxed drop-shadow-md">
-                Connect your channels. Orchestrate every conversation. Get smarter with each interaction, all inside one unified workspace built to scale intelligently with you.
+                Scheduling, AI transcription, and client communications work together seamlessly. No more juggling multiple systems. Lupa brings everything your veterinary practice needs into one intelligent platform.
             </p>
         </div>
     </div>

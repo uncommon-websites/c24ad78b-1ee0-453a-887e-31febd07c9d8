@@ -2,11 +2,12 @@
 
 @theme {
 	/* Colors */
-	--color-plain-green: #25E68E;
-	--color-plain-dark: #080a09;
-	--color-plain-dark-secondary: #131615;
-	--color-plain-gray: #f7f7f5;
-    --color-plain-text-gray: #666666;
+	--color-primary: oklch(0.696 0.17 162.48);
+	--color-primary-dark: oklch(0.508 0.118 165.612);
+	--color-lupa-dark: #080a09;
+	--color-lupa-dark-secondary: #131615;
+	--color-lupa-gray: #f7f7f5;
+    --color-lupa-text-gray: #666666;
 
 	--font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 	--font-display: var(--font-body);

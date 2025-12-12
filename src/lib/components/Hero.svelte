@@ -6,28 +6,28 @@
   <div class="container-custom flex flex-col items-center text-center">
     
     <!-- Badge -->
-    <a href="#" class="inline-flex items-center gap-1 px-3 py-1 rounded-full bg-green-50 border border-green-100 text-green-600 text-xs font-medium mb-8 hover:bg-green-100 transition-colors">
-      Introducing the new Plain AI suite
+    <a href="#" class="inline-flex items-center gap-1 px-3 py-1 rounded-full bg-primary-50 border border-primary-100 text-primary-600 text-xs font-medium mb-8 hover:bg-primary-100 transition-colors">
+      We raised $20M Series A to transform veterinary care
       <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
     </a>
 
     <!-- Headline -->
     <h1 class="text-5xl md:text-7xl font-bold tracking-tight text-gray-900 mb-6 max-w-4xl mx-auto leading-[1.1]">
-      <span class="text-plain-green">10x</span> your support <br class="hidden md:block" /> not your team
+      Veterinary software that <span class="text-primary-500">doesn't waste</span> your time
     </h1>
 
     <!-- Subheadline -->
     <p class="text-lg md:text-xl text-gray-500 mb-10 max-w-2xl mx-auto leading-relaxed">
-      Plain is the fastest support platform ever built, backed by a world-class API. Start fast. Scale fearlessly.
+      Lupa transforms veterinary practice management with integrated scheduling, AI transcription, and automated client communications. Built by ex-FAANG engineers who understand scale.
     </p>
 
     <!-- Buttons -->
     <div class="flex flex-col sm:flex-row items-center gap-4 mb-20">
-      <a href="#" class="px-6 py-3 text-sm font-bold bg-plain-green text-white rounded hover:bg-green-400 transition-colors uppercase tracking-wide shadow-sm shadow-green-200">
+      <a href="#" class="px-6 py-3 text-sm font-bold bg-primary-500 text-white rounded hover:bg-primary-600 transition-colors uppercase tracking-wide shadow-sm shadow-primary-200">
         Book a Demo
       </a>
       <a href="#" class="px-6 py-3 text-sm font-bold border border-gray-200 text-gray-700 rounded hover:border-gray-400 transition-colors uppercase tracking-wide bg-white">
-        14 Day Free Trial
+        See How It Works
       </a>
     </div>
 
@@ -42,7 +42,7 @@
         </div>
         <div class="flex-1 text-center">
           <div class="inline-flex items-center justify-center px-3 py-0.5 rounded bg-white border border-gray-200 text-[10px] text-gray-400 font-mono shadow-sm">
-            plain.com/app
+            lupa.vet/app
           </div>
         </div>
       </div>
@@ -94,8 +94,8 @@
                 <div class="bg-[#1C1C1C] rounded-lg p-4 text-gray-300 shadow-xl border border-gray-800 max-w-2xl mx-auto mt-8">
                     <div class="flex items-center justify-between mb-4 border-b border-gray-700 pb-3">
                         <div class="flex items-center gap-2 text-xs font-medium text-gray-400">
-                            <div class="w-4 h-4 rounded-full bg-plain-green flex items-center justify-center text-black font-bold">A</div>
-                            Ask Sidekick
+                            <div class="w-4 h-4 rounded-full bg-primary-500 flex items-center justify-center text-white font-bold text-[10px]">L</div>
+                            Lupa Notes AI
                         </div>
                         <div class="text-[10px] text-gray-500">ESC to close</div>
                     </div>
@@ -104,7 +104,7 @@
                         <div class="h-2 w-1/2 bg-gray-700 rounded opacity-50"></div>
                     </div>
                     <div class="relative">
-                        <input type="text" placeholder="How can I help you today?" class="w-full bg-transparent border-none text-sm text-white placeholder-gray-500 focus:ring-0 p-0" />
+                        <input type="text" placeholder="Transcribing consultation..." class="w-full bg-transparent border-none text-sm text-white placeholder-gray-500 focus:ring-0 p-0" />
                         <div class="absolute right-0 top-0 flex gap-2">
                              <div class="w-4 h-4 border border-gray-600 rounded text-[10px] flex items-center justify-center text-gray-500">↵</div>
                         </div>
@@ -115,7 +115,7 @@
             <!-- Reply Box -->
             <div class="h-16 border-t border-gray-100 px-6 flex items-center gap-4">
                  <div class="flex-1 h-10 bg-gray-50 rounded border border-gray-200"></div>
-                 <div class="w-20 h-10 bg-plain-green rounded opacity-20"></div>
+                 <div class="w-20 h-10 bg-primary-500 rounded opacity-20"></div>
             </div>
         </div>
 

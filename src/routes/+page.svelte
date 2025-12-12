@@ -18,7 +18,7 @@
   import Footer from '$lib/components/Footer.svelte';
 </script>
 
-<div class="min-h-screen bg-white font-body selection:bg-green-100 selection:text-green-900">
+<div class="min-h-screen bg-white font-body selection:bg-primary-100 selection:text-primary-900">
   <Navbar />
   
   <main>
