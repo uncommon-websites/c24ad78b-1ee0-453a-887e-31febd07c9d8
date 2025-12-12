@@ -69,7 +69,7 @@
         </div>
         <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6 tracking-tight">Influence roadmap</h2>
         <p class="text-lg text-gray-500 mb-8 leading-relaxed">
-          Move beyond just answering tickets and drive product change instead. Get real-time, aggregated and automated insights from your support. Plain makes your data work for you.
+          Move beyond just answering tickets and drive product change instead. Get real-time, aggregated and automated insights from your support. Lupa makes your data work for you.
         </p>
         <a href="#" class="inline-flex items-center text-sm font-bold text-green-500 uppercase tracking-wide hover:text-green-600">
           Discover Insights <span class="ml-2">→</span>

@@ -8,7 +8,7 @@
     </div>
 
     <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-10 tracking-tight max-w-3xl mx-auto">
-        Join the teams who rely on Plain to provide world-class support
+        Join the teams who rely on Lupa to provide world-class support
     </h2>
 
     <div class="flex flex-col sm:flex-row items-center justify-center gap-4">

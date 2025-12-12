@@ -29,7 +29,7 @@
         </div>
         <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6 tracking-tight">Save time</h2>
         <p class="text-lg text-gray-500 mb-8 leading-relaxed">
-          Sidekick helps you do customer work. It's fully aware of customer context, product knowledge and historical interactions. Draft replies and find answers without ever leaving Plain.
+          Sidekick helps you do customer work. It's fully aware of customer context, product knowledge and historical interactions. Draft replies and find answers without ever leaving Lupa.
         </p>
         <a href="#" class="inline-flex items-center text-sm font-bold text-green-500 uppercase tracking-wide hover:text-green-600">
           Discover Sidekick <span class="ml-2">→</span>

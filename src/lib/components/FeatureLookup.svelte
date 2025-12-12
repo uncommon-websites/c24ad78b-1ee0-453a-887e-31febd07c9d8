@@ -83,8 +83,8 @@
          <div class="h-32 mb-6 bg-white rounded border border-gray-100 p-4 flex items-center">
              <div class="text-[10px] w-full">
                  <div class="flex items-center gap-2 mb-2">
-                     <div class="w-6 h-6 rounded-full bg-green-100 text-green-600 flex items-center justify-center font-bold">P</div>
-                     <span class="font-bold">Plain</span>
+                     <div class="w-6 h-6 rounded-full bg-green-100 text-green-600 flex items-center justify-center font-bold">L</div>
+                     <span class="font-bold">Lupa</span>
                      <span class="text-gray-400">Your week: 3 Threads in Todo, 1 Not assigned</span>
                  </div>
                  <div class="space-y-1 pl-8 text-blue-600">
