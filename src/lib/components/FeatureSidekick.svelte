@@ -62,12 +62,12 @@
 
       <div class="bg-gray-50 rounded-xl p-6 border border-gray-100">
          <div class="h-32 mb-6 bg-white rounded border border-gray-100 p-4 flex flex-col gap-2 justify-center items-center">
-             <div class="w-full bg-gray-800 text-white p-2 rounded text-[10px] flex justify-between"><span>Find their org ID in the thread</span></div>
-             <div class="w-full bg-gray-700 text-gray-300 p-2 rounded text-[10px] flex justify-between"><span>Have we made any roadmap commitments?</span></div>
-             <div class="w-full bg-gray-700 text-gray-300 p-2 rounded text-[10px] flex justify-between"><span>Write a reply based on our docs</span></div>
+             <div class="w-full bg-gray-800 text-white p-2 rounded text-[10px] flex justify-between"><span>Physical exam: Normal heart rate</span></div>
+             <div class="w-full bg-gray-700 text-gray-300 p-2 rounded text-[10px] flex justify-between"><span>Diagnosis: Otitis externa</span></div>
+             <div class="w-full bg-gray-700 text-gray-300 p-2 rounded text-[10px] flex justify-between"><span>Treatment: Otomax, apply twice daily</span></div>
          </div>
-         <h3 class="font-bold text-gray-900 mb-2">Multitalented</h3>
-         <p class="text-sm text-gray-500">Get key information, summarize, draft, and search all your knowledge sources without switching tools.</p>
+         <h3 class="font-bold text-gray-900 mb-2">Structured perfectly</h3>
+         <p class="text-sm text-gray-500">AI organizes notes into SOAP format automatically. Physical exam findings, diagnoses, and treatment plans all properly categorized.</p>
       </div>
     </div>
   </div>

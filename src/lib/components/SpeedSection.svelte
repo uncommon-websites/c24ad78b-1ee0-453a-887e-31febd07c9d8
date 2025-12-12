@@ -56,8 +56,8 @@
     </div>
 
     <div class="text-center mt-20">
-        <p class="text-2xl md:text-3xl font-bold text-white mb-2">Start fast. Scale fearlessly.</p>
-        <p class="text-gray-400">Plain isn't just faster, it's built to last.</p>
+        <p class="text-2xl md:text-3xl font-bold text-white mb-2">Modern software. Veterinary expertise.</p>
+        <p class="text-gray-400">Lupa isn't just faster, it's built for how veterinary practices actually work.</p>
     </div>
   </div>
 </section>

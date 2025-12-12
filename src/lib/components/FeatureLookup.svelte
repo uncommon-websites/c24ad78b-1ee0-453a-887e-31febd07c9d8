@@ -5,15 +5,15 @@
       <div>
         <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-gray-200 text-xs font-bold uppercase tracking-wide mb-6">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-          Lookup
-          <span class="text-gray-400 border-l border-gray-200 pl-2 ml-1">POWERED BY CURSOR</span>
+          Instant Search
+          <span class="text-gray-400 border-l border-gray-200 pl-2 ml-1">POWERED BY AI</span>
         </div>
-        <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6 tracking-tight">Answer anything</h2>
+        <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6 tracking-tight">Find anything instantly</h2>
         <p class="text-lg text-gray-500 mb-8 leading-relaxed">
-          Stop asking engineers to check the code for answers – just ask the code yourself. Cursor Lookup connects support directly to your codebase. Get definitive, code-accurate answers in minutes instead of engineering escalations.
+          Stop digging through cluttered records to find patient history. Lupa's intelligent search finds vaccination dates, medication allergies, previous diagnoses, and treatment plans in seconds. No more scrolling through years of notes during consultations.
         </p>
         <a href="#" class="inline-flex items-center text-sm font-bold text-green-500 uppercase tracking-wide hover:text-green-600">
-          Discover Lookup <span class="ml-2">→</span>
+          See search in action <span class="ml-2">→</span>
         </a>
       </div>
 
@@ -50,16 +50,16 @@
       <div class="bg-gray-50 rounded-xl p-6 border border-gray-100">
          <div class="h-32 mb-6 bg-white rounded border border-gray-100 p-4 flex flex-col gap-2 overflow-hidden text-[10px]">
              <div class="bg-gray-50 p-2 rounded border border-gray-100">
-                 <span class="font-bold block mb-1">11 Customers reported issues with Slack thread creation</span>
-                 <span class="text-red-500 block">errors: missing properties, API rate limits...</span>
+                 <span class="font-bold block mb-1">Search: "Golden Retriever skin allergies"</span>
+                 <span class="text-green-600 block">Found 23 patients with similar conditions</span>
              </div>
              <div class="flex gap-2">
-                 <div class="w-2 h-2 rounded-full bg-red-500"></div>
-                 <span>Cedar: Slack API thread creation failing</span>
+                 <div class="w-2 h-2 rounded-full bg-green-500"></div>
+                 <span>Max: Treated with Apoquel, resolved</span>
              </div>
          </div>
-         <h3 class="font-bold text-gray-900 mb-2">Detect trends</h3>
-         <p class="text-sm text-gray-500">Spot recurring issues, trends, and opportunities across every conversation - without lifting a finger.</p>
+         <h3 class="font-bold text-gray-900 mb-2">Learn from past cases</h3>
+         <p class="text-sm text-gray-500">Search across all patient records to find similar cases, successful treatments, and medication responses. Build on your clinic's collective experience.</p>
       </div>
 
       <div class="bg-gray-50 rounded-xl p-6 border border-gray-100">
@@ -100,3 +100,4 @@
     </div>
   </div>
 </section>
+>

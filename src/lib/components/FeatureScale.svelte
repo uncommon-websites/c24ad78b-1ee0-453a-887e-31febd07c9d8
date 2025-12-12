@@ -64,31 +64,31 @@
                  </div>
              </div>
          </div>
-         <h3 class="font-bold text-gray-900 mb-2">Generate articles with AI</h3>
-         <p class="text-sm text-gray-500">Stop answering repetitive questions. Turn tickets into docs with a single click and help customers help themselves.</p>
+         <h3 class="font-bold text-gray-900 mb-2">Self-service booking</h3>
+         <p class="text-sm text-gray-500">Clients book appointments online 24/7. No more phone tag. They see available slots, choose what works, and get instant confirmation.</p>
       </div>
 
       <div class="bg-gray-50 rounded-xl p-6 border border-gray-100">
          <div class="h-32 mb-6 bg-white rounded border border-gray-100 p-4 flex items-center justify-center">
              <div class="text-[10px] space-y-2 w-full max-w-[200px]">
-                 <div class="flex items-center justify-between"><div class="flex items-center gap-1"><div class="w-4 h-4 rounded-full bg-red-200"></div><span>Youmina Sigil</span></div><span class="text-gray-400">T-1234 Cross-platform syncing error</span></div>
-                 <div class="flex items-center justify-between"><div class="flex items-center gap-1"><div class="w-4 h-4 rounded-full bg-blue-200"></div><span>Dimitra Zuccarelli</span></div><span class="text-gray-400">T-1234 Adding users to Cedar</span></div>
-                 <div class="flex items-center justify-between"><div class="flex items-center gap-1"><div class="w-4 h-4 rounded-full bg-green-200"></div><span>Pres Mihaylov</span></div><span class="text-gray-400">T-1234 Connecting plans with Stripe</span></div>
+                 <div class="flex items-center justify-between"><div class="flex items-center gap-1"><div class="w-4 h-4 rounded-full bg-blue-200"></div><span>Max</span></div><span class="text-gray-400">Vaccination: March 15</span></div>
+                 <div class="flex items-center justify-between"><div class="flex items-center gap-1"><div class="w-4 h-4 rounded-full bg-purple-200"></div><span>Bella</span></div><span class="text-gray-400">Checkup: April 2</span></div>
+                 <div class="flex items-center justify-between"><div class="flex items-center gap-1"><div class="w-4 h-4 rounded-full bg-green-200"></div><span>Charlie</span></div><span class="text-gray-400">Lab results ready</span></div>
              </div>
          </div>
-         <h3 class="font-bold text-gray-900 mb-2">Seamless collaboration</h3>
-         <p class="text-sm text-gray-500">Enable customers to talk to your team, find answers, and stay in sync without leaving their space.</p>
+         <h3 class="font-bold text-gray-900 mb-2">Complete medical history</h3>
+         <p class="text-sm text-gray-500">Pet owners access vaccination records, lab results, prescriptions, and visit summaries anytime. Full transparency builds trust.</p>
       </div>
 
       <div class="bg-gray-50 rounded-xl p-6 border border-gray-100">
          <div class="h-32 mb-6 bg-white rounded border border-gray-100 p-4 flex items-center justify-center">
              <div class="flex items-center gap-1 text-xs font-bold text-gray-800">
-                 <div class="w-4 h-4 rounded-full border border-green-500"></div>
-                 <span class="text-green-600">your-company</span>.support.site
+                 <div class="w-4 h-4 rounded-full border border-primary-500"></div>
+                 <span class="text-primary-600">your-clinic</span>.lupa.vet
              </div>
          </div>
-         <h3 class="font-bold text-gray-900 mb-2">Secure premium real estate</h3>
-         <p class="text-sm text-gray-500">Roll out the red carpet. Host your knowledge base on a custom <span class="text-green-600">support.site</span> domain, or your own.</p>
+         <h3 class="font-bold text-gray-900 mb-2">Branded client experience</h3>
+         <p class="text-sm text-gray-500">Your portal reflects your brand with custom domains and styling. Professional, modern, and uniquely yours.</p>
       </div>
     </div>
   </div>

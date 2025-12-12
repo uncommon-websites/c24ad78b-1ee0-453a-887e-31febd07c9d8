@@ -56,28 +56,28 @@
              <div class="h-2 w-1/2 bg-red-100 rounded"></div>
              <div class="h-2 w-2/3 bg-green-100 rounded"></div>
          </div>
-         <h3 class="font-bold text-gray-900 mb-2">Deploy across any channel</h3>
-         <p class="text-sm text-gray-500">Use Ari on Slack, Teams, Discord, or email. Wherever your customers reach you, Ari is already there.</p>
+         <h3 class="font-bold text-gray-900 mb-2">Reach clients everywhere</h3>
+         <p class="text-sm text-gray-500">Send automated messages via SMS, email, or your client portal. Pet owners get updates on their preferred channel without your team lifting a finger.</p>
       </div>
 
       <div class="bg-gray-50 rounded-xl p-6 border border-gray-100">
          <div class="h-32 mb-6 bg-white rounded border border-gray-100 p-4 flex items-center justify-center gap-2">
-             <div class="px-2 py-1 border border-green-200 bg-green-50 text-green-700 text-[10px] rounded">Checking knowledge</div>
-             <div class="px-2 py-1 border border-gray-200 text-gray-500 text-[10px] rounded">Help Center articles</div>
+             <div class="px-2 py-1 border border-green-200 bg-green-50 text-green-700 text-[10px] rounded">Appointment reminder</div>
+             <div class="px-2 py-1 border border-gray-200 text-gray-500 text-[10px] rounded">Lab results ready</div>
          </div>
-         <h3 class="font-bold text-gray-900 mb-2">Answers with confidence</h3>
-         <p class="text-sm text-gray-500">Add any knowledge source you choose for precision - your Plain Help Center, pricing page, developer docs, or FAQs.</p>
+         <h3 class="font-bold text-gray-900 mb-2">Smart communication timing</h3>
+         <p class="text-sm text-gray-500">Lupa knows when to send reminders, follow-ups, and notifications. 24-hour appointment reminders, instant lab result alerts, and timely prescription pickups.</p>
       </div>
 
       <div class="bg-gray-50 rounded-xl p-6 border border-gray-100">
          <div class="h-32 mb-6 bg-white rounded border border-gray-100 p-4 flex items-center justify-center">
              <div class="flex items-center gap-2">
-                 <div class="w-8 h-8 rounded-full border-2 border-green-500 flex items-center justify-center text-green-500 font-bold text-xs">12</div>
-                 <div class="text-xs font-bold text-gray-700">Threads handled</div>
+                 <div class="w-8 h-8 rounded-full border-2 border-green-500 flex items-center justify-center text-green-500 font-bold text-xs">247</div>
+                 <div class="text-xs font-bold text-gray-700">Messages sent today</div>
              </div>
          </div>
-         <h3 class="font-bold text-gray-900 mb-2">Engage rather than deflect</h3>
-         <p class="text-sm text-gray-500">Ari is built for B2B. It engages with customers, triages for you, and escalates to your team when unsure.</p>
+         <h3 class="font-bold text-gray-900 mb-2">Never miss a follow-up</h3>
+         <p class="text-sm text-gray-500">Automated workflows ensure every client gets timely communication. Post-surgery check-ins, vaccination reminders, and wellness visit prompts happen automatically.</p>
       </div>
     </div>
   </div>
